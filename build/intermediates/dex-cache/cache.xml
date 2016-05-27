@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3a890a97614de8972b052126b258797c15690f79\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mnadimut\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fd2bc68038f8dad0d0b509b87556298ab1db94c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_c152e31f3871a202cda84185a16b8a55cd157e40\classes.dex" />
+    </item>
+    <item
+        jar="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65be5286be04156ffde8f439217085a8735ec0aa">
+        <dex dex="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4553c59104160a5713c7c5c4436e539ddd9b5184\classes.dex" />
+    </item>
+    <item
+        jar="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_0f40f29a62659adef5ae60a7687b6f124583eed0\classes.dex" />
+    </item>
+    <item
+        jar="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e249e5529ef3d4ab8a699e8241385ba188330cfd\classes.dex" />
+    </item>
+    <item
+        jar="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_fe09680b5bef0f0a3bc20a970b8651fb2374a59e\classes.dex" />
+    </item>
+    <item
+        jar="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="13661c9099ab005ea989b4b158357f1b5f08dfe7">
+        <dex dex="C:\EpicSource\Samples\Android\Nanodegree\MyAppPortfolio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c897b39f8a4c99f174dddaac5995a2a64da819aa\classes.dex" />
+    </item>
+
+</items>
